@@ -1,0 +1,13 @@
+body {
+    color: blue;
+}
+
+h1 {
+    color: green;
+    text-indent: 50px;
+}
+
+p {
+    color: red;
+    font-family: "Times New roman", Times, serif;
+}
